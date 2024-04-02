@@ -18,3 +18,17 @@ li {
     font-weight: 500;
     background-color: aquamarine;
 }
+
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: aquamarine;
+    font-size: larger;
+    font-weight: bold;
+    padding: 7px 7px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
