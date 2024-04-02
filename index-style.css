@@ -3,3 +3,9 @@ h1 {
     color: white;
     text-align: center;
 }
+
+li {
+    
+    display: block;
+    margin-top: 20px;
+}
