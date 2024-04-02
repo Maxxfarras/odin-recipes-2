@@ -4,7 +4,7 @@ h1 {
     text-align: center;
 }
 
-li {
+button {
     
     display: block;
     margin-top: 20px;
@@ -17,3 +17,9 @@ button {
     font-weight: bold;
     padding: 7px 7px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
