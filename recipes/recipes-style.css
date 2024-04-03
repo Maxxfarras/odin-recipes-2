@@ -2,6 +2,7 @@ h1,
 h2 {
     color: white;
     background-color: rgb(66, 66, 182);
+    font-size: 45px;
     text-align: center;
     display: block;
     max-width: 900px;
@@ -20,9 +21,15 @@ img {
 .description,
 li {
     text-align: justify;
-    font-size: large;
+    font-size: 25px;
     font-weight: 500;
     background-color: aquamarine;
+    display: block;
+    max-width: 900px;
+    padding: 20px;
+    margin: 20px auto;
+    border: rgb(66, 66, 182) groove 10px;
+    list-style: none;
 }
 
 button {
