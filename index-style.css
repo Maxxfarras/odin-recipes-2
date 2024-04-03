@@ -17,13 +17,22 @@ li {
 
 button {
     background-color: aquamarine;
-    font-size: larger;
+    font-size: 40px;
     font-weight: bold;
-    padding: 7px 7px;
+    padding: 10px 40px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: rgb(66,66,182);
 }
 
 a {
     text-decoration: none;
     color: black;
+}
+
+h1 {
+    border-style: groove;
+    border-width: 10px;
+    border-color: aquamarine;
 }
 
